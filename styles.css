@@ -1,0 +1,57 @@
+#id-1 {
+  background-color: aqua;
+}
+#id-2 {
+  background-color: rgb(107, 107, 240);
+}
+#id-3 {
+  background-color: coral;
+}
+#id-4 {
+  background-color: rgb(133, 102, 62);
+}
+#id-5 {
+  background-color: bisque;
+}
+#id-55 {
+  background-color: bisque;
+  margin: 0;
+}
+.contaniner {
+  display: flex;
+  flex-direction: row;
+  font-size: 20px;
+}
+
+.f-img {
+  width: 300px;
+  size: 300px;
+  margin: 20px;
+}
+
+.flex box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  height: 320px;
+  margin: 10px;
+  font-variant-position: sub;
+  font-size: small;
+}
+.c-img {
+  width: 100px;
+  height: 180px;
+}
+
+.background-img {
+  background-image: url(https://cdn.speedsize.com/bf110d93-4a13-494f-a7af-a4a0d6a289c5/http://www.ayeletspices.co.il/wp-content/uploads/2018/07/2-33-1.jpg);
+  background-repeat: no-repeat;
+  object-fit: cover;
+  background-size: cover;
+}
