@@ -6,6 +6,7 @@ h1 {
 }
 header {
   background-color: rgb(212, 240, 210);
+  padding: 30px;
 }
 ul {
   text-align: center;
